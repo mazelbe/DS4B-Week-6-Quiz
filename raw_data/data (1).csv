@@ -1,62 +1,98 @@
-datasetName,about,link,categoryName,cloud,vintage
-Microbiome Project,American Gut (Microbiome Project),https://github.com/biocore/American-Gut,Biology,GitHub,NA
-GloBI,Global Biotic Interactions (GloBI),https://github.com/jhpoelen/eol-globi-data/wiki#accessing-species-interaction-data,Biology,GitHub,NA
-Global Climate,Global Climate Data Since 1929,http://en.tutiempo.net/climate,Climate/Weather,,1929
-CommonCraw 2012,3.5B Web Pages from CommonCraw 2012,http://www.bigdatanews.com/profiles/blogs/big-data-set-3-5-billion-web-pages-made-available-for-all-of-us,Computer Networks,,2012
-Indiana Webclicks,53.5B Web clicks of 100K users in Indiana Univ.,http://cnets.indiana.edu/groups/nan/webtraffic/click-dataset/,Computer Networks,,NA
-Criteo click-through,Criteo click-through data,http://labs.criteo.com/2015/03/criteo-releases-its-new-dataset/,Computer Networks,,NA
-ICWSM 2009,ICWSM Data Challenge (since 2009),http://icwsm.cs.umbc.edu/,Data Challenges,,2009
-KDD Cup,KDD Cup by Tencent 2012,http://www.kddcup2012.org/,Data Challenges,,2012
-Localytics Data,Localytics Data Visualization Challenge,https://github.com/localytics/data-viz-challenge,Data Challenges,GitHub,NA
-Yelp Dataset,Yelp Dataset Challenge,http://www.yelp.com/dataset_challenge,Data Challenges,,NA
-Bruteforce Database,Bruteforce Database,https://github.com/duyetdev/bruteforce-database,Data Challenges,GitHub,NA
-Countries,List of all countries in all languages,https://github.com/umpirsky/country-list,GIS,GitHub,NA
-TwoFishes,TwoFishes - Foursquare's coarse geocoder,https://github.com/foursquare/twofishes,GIS,GitHub,NA
-World countries,World countries in multiple formats,https://github.com/mledoze/countries,GIS,GitHub,NA
-Cities and countries,A list of cities and countries contributed by community,https://github.com/caesar0301/awesome-public-datasets/blob/master/Government.rst,Government,GitHub,NA
-Ebola cases,Number of Ebola Cases and Deaths in Affected Countries (2014),https://data.hdx.rwlabs.org/dataset/ebola-cases-2014,Healthcare,,2014
-eBay Online,eBay Online Auctions (2012),http://www.modelingonlineauctions.com/datasets,Machine Learning,,2012
-New Yorker Captions,New Yorker caption contest ratings,https://github.com/nextml/caption-contest-data,Machine Learning,GitHub,NA
-Cooper-Hewitt's Collection,Cooper-Hewitt's Collection Database,https://github.com/cooperhewitt/collection,Museums,GitHub,NA
-Minneapolis Institute,Minneapolis Institute of Arts metadata,https://github.com/artsmia/collection,Museums,GitHub,NA
-Tate Collection,Tate Collection metadata,https://github.com/tategallery/collection,Museums,GitHub,NA
-Google 5gram,"Google Web 5gram (1TB, 2006)",https://catalog.ldc.upenn.edu/LDC2006T13,Natural Language,,2006
-"Arabic, 30K articles","SaudiNewsNet Collection of Saudi Newspaper Articles (Arabic, 30K articles)",https://github.com/ParallelMazen/SaudiNewsNet,Natural Language,GitHub,NA
-USENET postings,USENET postings corpus of 2005~2011,http://www.psych.ualberta.ca/~westburylab/downloads/usenetcorpus.download.html,Natural Language,,2005
-Datahub.io,Datahub.io,https://datahub.io/dataset,Search Engines,,NA
-Twitter Scrape CIKM,Cheng-Caverlee-Lee September 2009 - January 2010 Twitter Scrape,https://archive.org/details/twitter_cikm_2010,Social Networks,,2009
-Facebook Data,Facebook Data Scrape (2005),https://archive.org/details/oxford-2005-facebook-matrix,Social Networks,,2005
-LAW graphs,Facebook Social Networks from LAW (since 2007),http://law.di.unimi.it/datasets.php,Social Networks,,2007
-Foursquare from,Foursquare from UMN/Sarwat (2013),https://archive.org/details/201309_foursquare_dataset_umn,Social Networks,,2013
-Skytrax' Air,Skytrax' Air Travel Reviews Dataset,https://github.com/quankiquanki/skytrax-reviews-dataset,Social Networks,GitHub,NA
-Twitter Scrape,Twitter Scrape Calufa May 2011,http://archive.org/details/2011-05-calufa-twitter-sql,Social Networks,,2011
-Youtube Video,"Youtube Video Social Graph in 2007,2008",http://netsg.cs.sfu.ca/youtubedata/,Social Networks,,2007
-FBI Hate Crime 2013,FBI Hate Crime 2013 - aggregated data,https://github.com/emorisse/FBI-Hate-Crime-Statistics/tree/master/2013,Social Sciences,GitHub,2013
-GSS,General Social Survey (GSS) since 1972,http://gss.norc.org,Social Sciences,,1972
-Texas Inmates,Texas Inmates Executed Since 1984,http://www.tdcj.state.tx.us/death_row/dr_executed_offenders.html,Social Sciences,,1984
-Formula 1,"Ergast Formula 1, from 1950 up to date (API)",http://ergast.com/mrd/db,Sports,,1950
-Pinhooker: Thoroughbred,Pinhooker: Thoroughbred Bloodstock Sale Data,https://github.com/phillc73/pinhooker,Sports,GitHub,NA
-Airlines OD,Airlines OD Data 1987-2008,http://stat-computing.org/dataexpo/2009/the-data.html,Transportation,,2008
-BSS,Bike Share Systems (BSS) collection,https://github.com/BetaNYC/Bike-Share-Data-Best-Practices/wiki/Bike-Share-Data-Systems,Transportation,GitHub,NA
-NYC Taxi,NYC Taxi Trip Data 2009-,http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml,Transportation,,2009
-FOIA/FOILed,NYC Taxi Trip Data 2013 (FOIA/FOILed),https://archive.org/details/nycTaxiTripData2013,Transportation,,2013
-NYC Uber,NYC Uber trip data April 2014 to September 2014,https://github.com/fivethirtyeight/uber-tlc-foil-response,Transportation,GitHub,2014
-Open Traffic,Open Traffic collection,https://github.com/graphhopper/open-traffic-collection,Transportation,GitHub,NA
-Plane Crash,"Plane Crash Database, since 1920",http://www.planecrashinfo.com/database.htm,Transportation,,1920
-U.S. Domestic,U.S. Domestic Flights 1990 to 2009,http://academictorrents.com/details/a2ccf94bbb4af222bf8e69dad60a68a29f310d9a,Transportation,,2009
-U.S. Freight,U.S. Freight Analysis Framework since 2007,http://ops.fhwa.dot.gov/freight/freight_analysis/faf/index.htm,Transportation,,2007
-Data Packaged,Data Packaged Core Datasets,https://github.com/datasets/,Complementary Collections,GitHub,NA
-USDA PLANTS,U.S. Department of Agriculture's PLANTS Database,http://www.plants.usda.gov/dl_all.html,Agriculture,,NA
-ClueWeb09,ClueWeb09 - 1B web pages,http://lemurproject.org/clueweb09/,Computer Networks,,2009
-ClueWeb12,ClueWeb12 - 733M web pages,http://lemurproject.org/clueweb12/,Computer Networks,,2012
-DEFRA Projects,DEFRA Science and Research Projects data,http://randd.defra.gov.uk/,Energy,,NA
-UK-DALE,UK Domestic Appliance-Level Electricity (UK-DALE) dataset,http://www.doc.ic.ac.uk/~dk3810/data/,Energy,,2016
-Landsat 8,Landsat 8 on AWS,https://aws.amazon.com/public-data-sets/landsat/,GIS,Amazon,NA
-Reverse Geocode,Simple but fast reverse geocoding up to city granularitiy level,https://github.com/kno10/reversegeocode,GIS,GitHub,NA
-Faces Database,10k US Adult Faces Database,http://wilmabainbridge.com/facememorability2.html,Image Processing,,NA
-ClueWeb09 FACC,ClueWeb09 FACC,http://lemurproject.org/clueweb09/FACC1/,Natural Language,,2009
-ClueWeb12 FACC,ClueWeb12 FACC,http://lemurproject.org/clueweb12/FACC1/,Natural Language,,2012
-Google Ngrams,Google Books Ngrams (2.2TB),https://aws.amazon.com/datasets/google-books-ngrams/,Natural Language,Amazon,NA
-EDRM Enron,"EDRM Enron EMail of 151 users, hosted on S3",https://aws.amazon.com/datasets/enron-email-data/,Social Networks,Amazon,NA
-GetGlue,GetGlue - users rating TV shows,http://getglue-data.s3.amazonaws.com/getglue_sample.tar.gz,Social Networks,,NA
-Twitter RepLab,Twitter Data for Online Reputation Management,http://nlp.uned.es/replab2013/,Social Networks,,2013
+NumLimbsMissing,NumLimbsRegenerating,Vitellogenic,Gravid,TempC,VO2_ml_per_h,weight,Sex
+0,0,0,0,38.72222222,0.184870373,0.08349,F
+0,0,0,0,34.44444444,0.183947751,0.08538,F
+0,0,0,0,37.22222222,0.138106453,0.09628,F
+0,0,0,0,38.72222222,0.29533245,0.1022,F
+0,0,0,0,37.77777778,0.203261113,0.11778,F
+0,0,1,0,37.77777778,0.185925495,0.15635,F
+2,1,1,0,32.38888889,0.464267148,0.16956,F
+0,0,1,0,32.38888889,0.459521188,0.17386,F
+1,0,1,0,26.05555556,0.437857064,0.20631,F
+0,0,1,0,28.16666667,0.400015215,0.21744,F
+1,1,0,1,25.44444444,0.386009142,0.21779,F
+0,0,0,0,26.33333333,0.403678119,0.22945,F
+0,0,1,0,32.38888889,0.666124591,0.24015,F
+0,0,0,0,32.38888889,0.573391921,0.24198,F
+0,0,0,0,26.33333333,0.428032761,0.25517,F
+0,0,1,0,26.05555556,0.414745828,0.25523,F
+0,0,0,0,26,0.275986082,0.25883,F
+0,0,1,0,26.77777778,0.508804387,0.28188,F
+0,0,1,0,27.83333333,0.397027391,0.2881,F
+0,0,1,0,32.66666667,0.591454403,0.28859,F
+0,0,0,0,26.33333333,0.467246346,0.29503,F
+0,0,1,0,32.66666667,0.662816149,0.29989,F
+1,1,1,0,27.83333333,0.659285858,0.30758,F
+1,0,1,0,32.38888889,0.751756063,0.31796,F
+0,0,0,1,37.33333333,0.691921995,0.32354,F
+0,0,1,0,26.33333333,0.39418028,0.32435,F
+0,0,0,1,26.77777778,0.448858556,0.32801,F
+0,0,1,0,32.38888889,0.673402817,0.32809,F
+0,0,0,1,27.83333333,0.447054671,0.33204,F
+2,0,1,0,32.61111111,0.806005042,0.35242,F
+0,0,1,0,32.61111111,0.90367746,0.36774,F
+0,0,1,0,28.16666667,0.650958959,0.38159,F
+0,0,1,0,32.61111111,1.012102315,0.38752,F
+0,0,1,0,26,0.515586035,0.39544,F
+0,0,1,0,26.11111111,0.613963498,0.42704,F
+0,0,1,0,27.83333333,0.598434529,0.45224,F
+0,0,1,0,26.11111111,0.704798621,0.45572,F
+1,1,1,1,24.44444444,0.612041321,0.46611,F
+0,0,1,0,32.77777778,1.187771465,0.48489,F
+0,0,1,0,32.38888889,0.923855018,0.50785,F
+0,0,1,0,26,0.699578976,0.50796,F
+0,0,0,0,26,0.941135949,0.52774,F
+1,1,1,0,28.16666667,0.695808692,0.54129,F
+0,0,1,0,28.16666667,0.913052645,0.55334,F
+0,0,1,0,32.77777778,0.987938793,0.60822,F
+0,0,0,0,32.77777778,1.134024232,0.69062,F
+0,0,1,0,32.38888889,1.225388435,0.72026,F
+0,0,1,0,32.77777778,1.395723263,0.81329,F
+0,0,NA,NA,37.83333333,0.162805192,0.04323,M
+0,0,NA,NA,34.94444444,0.103588223,0.05003,M
+0,0,NA,NA,34.44444444,0.175475616,0.06054,M
+0,0,NA,NA,40.22222222,0.166248458,0.07253,M
+0,0,NA,NA,34.94444444,0.121201245,0.07299,M
+0.666666667,0,NA,NA,27.83333333,0.579111173,0.099936667,M
+0,0,NA,NA,34.94444444,0.145470426,0.11095,M
+1,0,NA,NA,37.22222222,0.262971558,0.119,M
+3,0,NA,NA,37.22222222,0.230285858,0.13529,M
+0,0,NA,NA,37.22222222,0.200451154,0.14271,M
+0,0,NA,NA,37.77777778,0.133672144,0.14934,M
+0,0,NA,NA,37.22222222,0.152117706,0.15052,M
+0,0,NA,NA,34.44444444,0.212658787,0.16082,M
+3,1,NA,NA,37.77777778,0.132682478,0.1645,M
+0.5,0,NA,NA,25.44444444,0.445385716,0.167985,M
+1,1,NA,NA,25.38888889,0.319041427,0.17767,M
+0,0,NA,NA,32.77777778,0.398233387,0.1928,M
+0,0,NA,NA,25.38888889,0.296788366,0.23579,M
+0,0,NA,NA,25.44444444,0.421922719,0.24764,M
+1,1,NA,NA,24.44444444,0.4684505,0.24885,M
+0,0,NA,NA,25.44444444,0.562901049,0.26438,M
+1,1,NA,NA,32.66666667,0.609029123,0.27525,M
+0,0,NA,NA,26.05555556,0.375555537,0.2759,M
+0,0,NA,NA,27.83333333,0.419959684,0.28071,M
+0,0,NA,NA,27.83333333,0.472243677,0.30798,M
+0,0,NA,NA,24.44444444,0.472717675,0.31277,M
+0,0,NA,NA,32.77777778,0.514215418,0.32505,M
+0,0,NA,NA,25.44444444,0.384230312,0.3252,M
+0,0,NA,NA,26.05555556,0.591838964,0.34063,M
+4,4,NA,NA,24.44444444,0.525768556,0.35733,M
+0,0,NA,NA,25.44444444,0.501864122,0.37028,M
+0.333333333,1,NA,NA,25.38888889,0.63716286,0.38194,M
+0,0,NA,NA,32.38888889,0.930312416,0.38522,M
+1,1,NA,NA,27.83333333,0.627998164,0.38735,M
+0,0,NA,NA,26.05555556,0.592693821,0.4235,M
+0,0,NA,NA,32.61111111,0.772117338,0.42521,M
+0,0,NA,NA,32.77777778,0.717283328,0.42755,M
+0,0,NA,NA,26.77777778,0.690231899,0.43338,M
+1,1,NA,NA,24.44444444,0.518670059,0.4402,M
+0,0,NA,NA,28.16666667,0.608595788,0.45672,M
+0,0,NA,NA,26.11111111,0.489071715,0.47788,M
+1,1,NA,NA,32.61111111,1.110182515,0.52481,M
+0,0,NA,NA,26.11111111,0.660642446,0.60806,M
+0,0,NA,NA,26.77777778,0.733151715,0.6305,M
+0,0,NA,NA,26.11111111,0.856043147,0.80474,M
+0,0,NA,NA,32.77777778,0.833805171,0.82074,M
+2,1,NA,NA,32.77777778,1.234196651,0.93198,M
+0,0,NA,NA,25.27777778,0.766338534,1.00646,M
+0,0,NA,NA,32.77777778,1.30963315,1.08897,M
