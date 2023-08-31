@@ -1,5 +1,5 @@
 ---
-title: "workshop_solutions.Rmd"
+title: "Week 6 Quiz"
 author: "u7310473"
 date: "2023-08-31"
 output:  
@@ -18,4 +18,15 @@ output:
 
 ## Loading the data
 
+```{r}
+library(tidyverse)
+metabolic_rate <- read_csv("raw_data/data (1).csv")
+```
+
 ## An interesting plot
+```{r}
+ggplot(metabolic_rate, aes(x = NumLimbsMissing, y = TempC)) +
+  geom_point() +
+  geom_smooth()
+```
+
